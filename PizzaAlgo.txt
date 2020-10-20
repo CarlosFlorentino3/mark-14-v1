@@ -1,4 +1,4 @@
-Dcide the pizza place
+Decide the pizza place
 Decide the pizza I want to order
 Call pizza place
 Order the pizza
@@ -6,4 +6,4 @@ Order the pizza
     4b pay at the door
     wait delivery
     great delivery drive
-    
+happy with delivery
