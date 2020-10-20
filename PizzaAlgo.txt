@@ -1,0 +1,9 @@
+Dcide the pizza place
+Decide the pizza I want to order
+Call pizza place
+Order the pizza
+    4a pay over phone
+    4b pay at the door
+    wait delivery
+    great delivery drive
+    
